@@ -10,7 +10,6 @@
 - **Địa chỉ IP:** 160.187.229.73
 - **Hostname:** kien-d24
 - **Web server:** Nginx 1.18.0 (reverse proxy)
-- **Backend:** Spring Boot (Java), chạy nội bộ tại `127.0.0.1:8082`
 - **Truy cập:** SSH cổng 22, HTTP cổng 80
 
 ## 3. Cấu trúc dự án
@@ -22,7 +21,8 @@ HN_KS24_CNTT03_NguyenTheKienDe005/
 │   └── index.html            
 ├── screenshot/
 │   ├── 01-User.png            
-│   └── 3.3 Tường lửa.png      
+│   └── 3.3 Tường lửa.png
+|   └── 3.2.png  
 └── README.md
 ```
 
